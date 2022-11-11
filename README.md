@@ -1,5 +1,7 @@
 # Yihaa!
 
+**Important: this app is still under development**
+
 Eating healthy should be easy, naturally and above all, free! Your intelligent health assistant app is an open source project which should help people with their eating schedule. The app offers the ability to store recipes, keep track of your macros and micros and suggest recipes and/or foods which help you reach your goal. The project gives everyone the opportunity to contribute by offering Pull Requests and host it on their own machine/server. 
 
 Let's create the 100% free go-to health app for our generation and the next.
